@@ -1,8 +1,4 @@
-# jquery-cookboook
-
-Code examples from chapter 13 of the jQuery Cookbook.
-
-http://shop.oreilly.com/product/9780596159788.do
+# jQuery cookbook
 
 Live demo here…
 
